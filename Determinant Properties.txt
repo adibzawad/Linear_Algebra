@@ -1,0 +1,18 @@
+Row Operation Property
+• Adding/Subtracting Rows → det B=B= det AA
+• Interchanging rows → det B=-B=− det AA
+• Multiplying rows → det B=k\; \cdotB=k⋅ det AA
+• Triangular Matrices
+The Multiplicative Property/Other Properties
+• det (A)=(A)= det (A^T)(A 
+T
+ )
+• AA is invertible if and only if det A \neq 0A
+
+=0
+• det (AB)=(AB)= det A \; \cdotA⋅ det BB
+Applications to Determinants
+• If det (A) \neq 0(A)
+
+=0, then columns are linearly independent
+• If det (A) = 0(A)=0, then columns are linear dependent
